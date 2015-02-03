@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=lastName\ firstName\ title\ pubDate\ isbn\ numPages
+comment0.target=Book(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ int)
+comment0.text=\r\n\ @param\ lastName\r\n\ @param\ firstName\r\n\ @param\ title\r\n\ @param\ pubDate\r\n\ @param\ isbn\r\n\ @param\ numPages\r\n\ \r\n\ Instantiates\ a\ book\ objects\ by\ \r\n\ passing\ parameter\ for\ the\ details\r\n
+comment1.params=
+comment1.target=java.lang.String\ getLastName()
+comment1.text=\r\n\ @return\ the\ lastName\r\n
+comment2.params=
+comment2.target=java.lang.String\ getFirstName()
+comment2.text=\r\n\ @return\ the\ firstName\r\n
+comment3.params=
+comment3.target=java.lang.String\ getTitle()
+comment3.text=\r\n\ @return\ the\ title\r\n
+comment4.params=
+comment4.target=java.lang.String\ getPubDate()
+comment4.text=\r\n\ @return\ the\ pubDate\r\n
+comment5.params=
+comment5.target=int\ getIsbn()
+comment5.text=\r\n\ @return\ the\ isbn\r\n
+comment6.params=
+comment6.target=int\ getNumPages()
+comment6.text=\r\n\ @return\ the\ numPages\r\n
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment7.text=\ (non-Javadoc)\r\n\ @see\ java.lang.Object\#toString()\r\n
+numComments=8
